@@ -1,3 +1,7 @@
+## Domain language
+
+`GLOSSARY.md` is the canonical vocabulary for domain terms. Use its terms when naming code and writing UI copy or emails, and add to it when a new term is settled.
+
 ## Verification checks
 
 Do these checks in this order before you report a change to `app/` as complete:
